@@ -35,7 +35,7 @@ beverages_project
 ## How to Run
 1. **Clone the Repository**:
    ```bash
-   git clone <repository_link>
+   git clone <https://github.com/shubhi47/Beverage-Vending-Machine>
    cd beverages_project
    ```
 
